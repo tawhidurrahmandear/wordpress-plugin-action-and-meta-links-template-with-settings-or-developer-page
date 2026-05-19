@@ -19,5 +19,4 @@ This is my own PlugIn, just replace information with yours  <br>
 
 ## Credit
 * developed by Tawhidur Rahman Dear, https://www.tawhidurrahmandear.com <br>
-* Download from https://wordpress.org/plugins/special-promotion-and-support <br>
-* Released under GPL-2.0 license on Github at https://github.com/tawhidurrahmandear/wordpress-plugin-extra-metadata
+* Released under GPL-2.0 license on Github at https://github.com/tawhidurrahmandear/wordpress-plugin-action-and-meta-links-template-with-settings-or-developer-page
