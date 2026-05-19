@@ -2,7 +2,7 @@
 
 <br><br>
 
-![WordPress Plugin Action and Meta Links Template with Settings or Developer page]([https://raw.githubusercontent.com/tawhidurrahmandear/profile-picture-maker/refs/heads/main/Profile-Picture-Maker.png](https://raw.githubusercontent.com/tawhidurrahmandear/wordpress-plugin-action-and-meta-links-template-with-settings-or-developer-page/refs/heads/main/wordpress-action-and-meta-link-example-with-settings-or-developer-page.png))
+![WordPress Plugin Action and Meta Links Template with Settings or Developer page](https://raw.githubusercontent.com/tawhidurrahmandear/wordpress-plugin-action-and-meta-links-template-with-settings-or-developer-page/refs/heads/main/wordpress-action-and-meta-link-example-with-settings-or-developer-page.png)
 
 <br><br>
 
