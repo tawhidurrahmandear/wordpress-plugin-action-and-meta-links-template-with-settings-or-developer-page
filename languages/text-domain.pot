@@ -18,7 +18,7 @@ msgstr ""
 
 
 
-#: wordpress-action-and-meta-link-example-with-settings-or-developer-page.php:28
+#: wordpress-action-and-meta-link-example-with-settings-or-developer-page.php:31
 #. Settings link
 msgid "Plugin Settings"
 msgstr ""
