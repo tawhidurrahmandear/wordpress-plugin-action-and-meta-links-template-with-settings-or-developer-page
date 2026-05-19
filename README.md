@@ -1,4 +1,4 @@
-# WordPress PlugIn Extra Metadata 🌐 Show more clickable links in WordPress Metadata section
+# WordPress Plugin Action and Meta Links Template with Settings or Developer page
 <br>
 Version X.X | By Your Name | View details | Introduction to Plugin | Buy Pro Version | Live Preview of Pro Version | Rate and Review
 
