@@ -1,1 +1,26 @@
+# Copyright (C) 2026 Plugin Name, may be XYZ
+# This file is distributed under the same license as the Plugin Name, may be XYZ package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Name, may be XYZ 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-18 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-05-19 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: text-domain\n"
+
+
+
+#: wordpress-action-and-meta-link-example-with-settings-or-developer-page.php:28
+#. Settings link
+msgid "Plugin Settings"
+msgstr ""
+
 
