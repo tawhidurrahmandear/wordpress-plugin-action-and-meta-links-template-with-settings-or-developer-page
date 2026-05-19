@@ -1,19 +1,34 @@
 # WordPress Plugin Action and Meta Links Template with Settings or Developer page
-<br>
-Version X.X | By Your Name | View details | Introduction to Plugin | Buy Pro Version | Live Preview of Pro Version | Rate and Review
 
 <br><br>
 
-![WordPress PlugIn Extra Metadata - Show more clickable links in WordPress Metadata section](https://raw.githubusercontent.com/tawhidurrahmandear/wordpress-plugin-extra-metadata/refs/heads/main/wordpress-plugin-extra-metadata.png)
+![WordPress Plugin Action and Meta Links Template with Settings or Developer page]([https://raw.githubusercontent.com/tawhidurrahmandear/wordpress-plugin-extra-metadata/refs/heads/main/wordpress-plugin-extra-metadata.png](https://raw.githubusercontent.com/tawhidurrahmandear/wordpress-plugin-action-and-meta-links-template-with-settings-or-developer-page/refs/heads/main/wordpress-action-and-meta-link-example-with-settings-or-developer-page.png))
 
 <br><br>
 
-## How to do this?
-This is my own PlugIn, just replace information with yours  <br>
+Left Column
+Plugin Name, may be XYZ
+Plugin Settings page as Independent Menu | Example Plugin Settings Page under Tools Menu | Existing Permalink Settings Page | External Documentation Link | Activate/Deactivate
 
-* To ensure WordPress ecosystem, folder-name, main-plugin-file-name.php, and text-domain should be same. Please replace special-promotion-and-support with yours 
-* Replace specialpromotion with your pluginname 
-* Replace tawhidurrahmandear with your WordPress.org developer ID. My WordPress URL is https://profiles.wordpress.org/tawhidurrahmandear and username is tawhidurrahmandear which means if I use tawhidurrahmandear everywhere, there is no chance of conflicts. You should read this article for details: https://www.devilhunter.net/2024/10/choose-unique-identifier-in-wordpress.html 
+<br><br>
+	
+Right Column
+Write a description here. Also change the author name and both URIs.
+Version X.X | By Author name | Visit plugin site | Live Preview | Rate this free plugin on WordPress.org | Buy Pro Version | Plugin Developer | Plugin Settings page as Independent Menu | Example Plugin Settings Page under Tools Menu | Existing Permalink Settings Page
+
+<br><br>
+
+## This project is a lightweight WordPress plugin starter template focused on Plugin Action Links, Plugin Row Meta Links, and standalone admin pages.
+
+It demonstrates how to:
+
+* Add custom Plugin Action Links beside Activate/Deactivate  
+* Add Plugin Row Meta Links under the plugin description  
+* Create independent plugin admin pages, and Add submenu pages under Tools  
+* Load custom settings/tutorial pages from separate files  
+* Use unique prefixes to avoid conflicts  
+
+The plugin includes extensive comments and examples, making it useful for both beginners and experienced developers who want a clean starting point.
 
 <br><br>
 
