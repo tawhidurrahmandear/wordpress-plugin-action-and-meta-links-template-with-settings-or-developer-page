@@ -1,19 +1,19 @@
 # WordPress Plugin Action and Meta Links Template with Settings or Developer page
 
-<br><br>
+<br>
 
 ![WordPress Plugin Action and Meta Links Template with Settings or Developer page](https://raw.githubusercontent.com/tawhidurrahmandear/wordpress-plugin-action-and-meta-links-template-with-settings-or-developer-page/refs/heads/main/wordpress-action-and-meta-link-example-with-settings-or-developer-page.png)
 
-<br><br>
+<br>
 
-Left Column<br>
-Plugin Name, may be XYZ<br>
+**Left Column**<br>
+**Plugin Name, may be XYZ**<br>
 Plugin Settings page as Independent Menu | Example Plugin Settings Page under Tools Menu | Existing Permalink Settings Page | External Documentation Link | Activate/Deactivate
 
-<br><br>
+<br>
 	
-Right Column<br>
-Description<br>
+**Right Column**<br>
+**Description**<br>
 Version X.X | By Author name | Visit plugin site | Live Preview | Rate this free plugin on WordPress.org | Buy Pro Version | Plugin Developer | Plugin Settings page as Independent Menu | Example Plugin Settings Page under Tools Menu | Existing Permalink Settings Page
 
 <br><br>
